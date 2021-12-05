@@ -40,7 +40,7 @@ First convert markdown to pdf using this site:
 
 Then convert pdf to doc file and then change its font style.
  # 5 Dec, 2021: 
- ## [https://md2pdf.netlify.app/](https://md2pdf.netlify.app/) best site 
+ ## [https://md2pdf.netlify.app/](https://md2pdf.netlify.app/) best site but the problem is code is not wrapping
  
  
  
