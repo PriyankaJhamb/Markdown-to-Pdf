@@ -39,3 +39,9 @@ First convert markdown to pdf using this site:
 [https://dillinger.io/](https://dillinger.io/)
 
 Then convert pdf to doc file and then change its font style.
+ # 5 Dec, 2021: 
+ ## [https://md2pdf.netlify.app/](https://md2pdf.netlify.app/) best site 
+ 
+ 
+ 
+ ## TYPORA Software
